@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Siu. 👋</h1>
 <h3 align="center">En la actualidad me dedico a trabajar en el Desarrollo Web (Front-End) con ReactJS como Freelancer.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Laravel**
+- 🌱 Actualmente estoy aprendiendo **MYSQL**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://angelsiu.com](https://angelsiu.com)
 
