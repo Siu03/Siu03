@@ -1,5 +1,7 @@
 <h1 align="center">Hola, soy Siu. 👋</h1>
-<h3 align="center">En la actualidad me dedico a trabajar en el Desarrollo Web (Front-End) con ReactJS como Freelancer.</h3>
+<h3 align="center">En la actualidad me dedico a como FullStack en <b>App Inventor</b>.</h3>
+
+<! – <h3 align="center">En la actualidad me dedico a trabajar en el Desarrollo Web (Front-End) con ReactJS como Freelancer.</h3> –>
 
 - 🌱 Actualmente estoy aprendiendo **MYSQL**
 
