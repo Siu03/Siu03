@@ -2,7 +2,7 @@
 <h3 align="center">En la actualidad me dedico a trabajar en el Desarrollo Web (Front-End) con ReactJS como Freelancer.</h3>
 
 
-- 🌱 Actualmente estoy aprendiendo **MYSQL**
+- 🌱 Actualmente estoy aprendiendo **COBOL**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://angelsiu.com](https://angelsiu.com)
 
