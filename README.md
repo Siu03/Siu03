@@ -1,5 +1,6 @@
 <h1 align="center">Hola, soy Siu. 👋</h1>
 <h3 align="center">En la actualidad estoy estudiando para ser Desarrollador en Cobol y Mainframe z/OS.</h3>
+<h5 align="center">Ahorita tengo pelo siendo Cobol Dev Junior, dentro de unos años quien sabe.</h5>
 
 
 - 🌱 Actualmente estoy aprendiendo **COBOL**
