@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://angelsiu.com](https://angelsiu.com)
 
-- 📫 Cómo contactarme **https://api.whatsapp.com/send?phone=526121714674**
+- 
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
