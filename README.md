@@ -5,8 +5,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **COBOL**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://angelsiu.com](https://angelsiu.com)
-
 - 
 
 <h3 align="left">Mis redes sociales:</h3>
